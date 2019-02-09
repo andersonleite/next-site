@@ -31,7 +31,7 @@ In order to follow this lesson, you will need to have a simple Next.js app. For 
 ~~~bash
 git clone https://github.com/arunoda/learnnextjs-demo.git
 cd learnnextjs-demo
-git checkout with-styled-jsx
+git checkout data-fetching
 ~~~
 
 You can run it with:
